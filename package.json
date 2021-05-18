@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puresox/CZU211Lab_tcpServer.git"
+    "url": "git+https://github.com/puresox/CZU211Lab-tcpServer.git"
   },
   "keywords": [
     "tcp"
@@ -17,9 +17,9 @@
   "author": "puresox",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/puresox/CZU211Lab_tcpServer/issues"
+    "url": "https://github.com/puresox/CZU211Lab-tcpServer/issues"
   },
-  "homepage": "https://github.com/puresox/CZU211Lab_tcpServer#readme",
+  "homepage": "https://github.com/puresox/CZU211Lab-tcpServer#readme",
   "devDependencies": {
     "eslint": "^7.7.0",
     "eslint-config-airbnb-base": "^14.2.0",
